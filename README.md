@@ -6,3 +6,6 @@ running fastai tutorials
 `sudo ./dev_start.sh`
 ## enter container (optional)
 `sudo ./dev_into.sh`
+---
+Inside the container you can run `jupyter notebook list` to view the active containers. 
+Click on the link to access the container.
